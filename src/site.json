@@ -8,5 +8,6 @@
   "url": "https://camping.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "캠핑·아웃도어 사용·관리 가이드 | GuideHollow"
+  "pageTitle": "캠핑·아웃도어 사용·관리 가이드 | GuideHollow",
+  "coupangEnabled": true
 }
