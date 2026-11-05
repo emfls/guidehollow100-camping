@@ -2,12 +2,13 @@
   "title": "GuideHollow",
   "slug": "camping",
   "section": "캠핑·아웃도어",
-  "hero": "캠핑 준비와 장비 관리, 현장 조건부터 확인하세요",
-  "description": "야영장 시설·계절·기상 조건을 확인하고 텐트와 장비를 안전하게 준비하는 가이드입니다.",
+  "hero": "캠핑 준비물 만들기",
+  "description": "인원과 숙박 일수에 맞는 기본 준비 목록을 만드세요.",
   "accent": "#617E55",
   "url": "https://camping.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "캠핑·아웃도어 사용·관리 가이드 | GuideHollow",
-  "coupangEnabled": true
+  "pageTitle": "캠핑 준비물 만들기 | GuideHollow",
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
